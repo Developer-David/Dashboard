@@ -1,0 +1,9 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Playground App",
+  "main": "server.js",
+  "repository": "https://github.com/Developer-David/Dashboard.git",
+  "author": "David <david.idevices@icloud.com>",
+  "license": "MIT"
+}
